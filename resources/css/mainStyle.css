@@ -84,17 +84,16 @@ body {
     background-repeat: no-repeat
 }
 
-@font-face {
-    font-family: 'onebanc_fonts';
-    src: url('fonts/onebanc_fonts.woff?q0q9wt') format('woff'), url('fonts/onebanc_fonts.ttf?q0q9wt') format('truetype');
+/* @font-face {
+    font-family:'Times New Roman', Times, serif;
     font-weight: normal;
     font-style: normal;
     font-display: block
-}
+} */
 
 [class^="icon"], [class*=" icon"] {
-    font-family: 'onebanc_fonts' !important;
-    speak: none;
+    font-family: 'Times New Roman', Times, serif !important;
+    /* speak: none; */
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
